@@ -3,15 +3,15 @@
     "v1": 
     {
         "url": "https://tanvimishra.github.io/design-journal/index.html",
-        "images": ["../assets/portfolio v1.png"]
+        "images": ["../Assets/portfolio v1.png"]
     },
     "v2":{
       "url": "https://tanvimishra.github.io/portfolio/index.html",
-      "images": ["./assets/portfolio v2.png"]
+      "images": ["./Assets/portfolio v2.png"]
     },
     "v3":{
       "url": "tanvimishra.xyz",
-      "images": ["./assets/portfolio v2.png"]
+      "images": ["./Assets/portfolio v2.png"]
     },
     "title": {
         "name": "tanvimishra.xyz",
@@ -29,7 +29,7 @@
   {
     "v1": {
       "url": "https://tanvimishra.github.io/LightMovements/",
-      "images": ["./assets/lightmovement v1.png"]
+      "images": ["./Assets/lightmovement v1.png"]
     },
     "v2": null,
     "v3": null,
@@ -49,7 +49,7 @@
   {
     "v1": {
       "url": "",
-      "images": ["./assets/websitesite v1.png"]
+      "images": ["./Assets/websitesite v1.png"]
     },
     "v2": null,
     "v3": null,
@@ -69,7 +69,7 @@
   {
     "v1": {
       "url": "",
-      "images": ["./assets/rollingstones v1.png"]
+      "images": ["./Assets/rollingstones v1.png"]
     },
     "v2": null,
     "v3": null,
@@ -89,7 +89,7 @@
   {
     "v1": {
       "url": "https://tanvimishra.github.io/neoTCH_1.3/",
-      "images": ["./assets/neo v1.png"]
+      "images": ["./Assets/neo v1.png"]
     },
     "v2": null,
     "v3": null,
