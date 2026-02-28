@@ -7,3 +7,4 @@ to do
 - make it responsive
 - add images
 - reorder projects
+- img fixing
