@@ -3,7 +3,7 @@
     "v1": 
     {
         "url": "https://tanvimishra.github.io/design-journal/index.html",
-        "images": ["../Assets/portfolio v1.png"]
+        "images": ["./Assets/portfolio v1.png"]
     },
     "v2":{
       "url": "https://tanvimishra.github.io/portfolio/index.html",
