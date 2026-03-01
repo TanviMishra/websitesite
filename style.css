@@ -6,6 +6,26 @@
 *{
   box-sizing: border-box;
 }
+
+/* Scrollbar */
+html {
+  scrollbar-color: var(--primary) var(--white);
+}
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-track {
+  background: var(--white);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}
+
 /* TYPE STYLES*/
 h1 {
   font-family: "Eiko";
