@@ -1,95 +1,382 @@
 [
   {
-    "v1": 
-    {
-        "url": "https://tanvimishra.github.io/design-journal/index.html",
-        "images": ["./Assets/portfolio v1.png"]
-    },
-    "v2":{
-      "url": "https://tanvimishra.github.io/portfolio/index.html",
-      "images": ["./Assets/portfolio v2.png"]
-    },
-    "v3":{
-      "url": "tanvimishra.xyz",
-      "images": ["./Assets/portfolio v2.png"]
-    },
-    "title": {
-        "name": "tanvimishra.xyz",
-        "url": "https://www.tanvimishra.xyz/"
-    },
-    "source code": "https://github.com/TanviMishra/Tanvi-Mishra-Portfolio",
-    "year": "Forever",
-    "for": "me",
-    "function": {
-        "name": "Personal Website",
-        "url": null
-    },
-    "description": "An archive of things I've liked making"
-  },
-  {
     "v1": {
-      "url": "https://tanvimishra.github.io/LightMovements/",
-      "images": ["./Assets/lightmovement v1.png"]
+      "url": "",
+      "images": [
+        "./Assets/websitesite v1.png"
+      ]
     },
     "v2": null,
     "v3": null,
     "title": {
-        "name": "Light Movement",
-        "url": "https://tanvimishra.github.io/LightMovements/"
+      "name": "tanvi websitesite",
+      "url": "https://tanvimishra.github.io/websitesite/"
+    },
+    "source code": "https://github.com/TanviMishra/websitesite",
+    "year": "2026",
+    "for": "me",
+    "function": {
+      "name": "archive",
+      "url": null
+    },
+    "description": "all the websites I've built, past and present."
+  },
+  {
+    "v1": {
+      "url": "https://tanvimishra.github.io/design-journal/index.html",
+      "images": [
+        "./Assets/portfolio v1.png"
+      ]
+    },
+    "v2": {
+      "url": "https://tanvimishra.github.io/portfolio/index.html",
+      "images": [
+        "./Assets/portfolio v2.png"
+      ]
+    },
+    "v3": {
+      "url": "tanvimishra.xyz",
+      "images": [
+        "./Assets/portfolio v3.png"
+      ]
+    },
+    "title": {
+      "name": "tanvimishra.xyz",
+      "url": "https://www.tanvimishra.xyz/"
+    },
+    "source code": "https://github.com/TanviMishra/Tanvi-Mishra-Portfolio",
+    "year": "forever",
+    "for": "me",
+    "function": {
+      "name": "personal site",
+      "url": null
+    },
+    "description": "an archive of things I've liked making"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/silly goose v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Silly Goose Cassettes",
+      "url": "https://sillygoose.bearblog.dev/"
+    },
+    "source code": null,
+    "year": "2025",
+    "for": "me",
+    "function": {
+      "name": "archive, writing",
+      "url": null
+    },
+    "description": "blog so that I don't stop thinking and go into autopilot"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/tridal v1.jpg"
+      ]
+    },
+    "v2": {
+      "url": "",
+      "images": [
+        "./Assets/tridal v2.jpg"
+      ]
+    },
+    "v3": {
+      "url": "",
+      "images": [
+        "./Assets/tridal v3.jpg"
+      ]
+    },
+    "title": {
+      "name": "Tridal",
+      "url": ""
+    },
+    "source code": "https://github.com/TanviMishra/thesis-progress",
+    "year": "2023-2024",
+    "for": "me",
+    "function": {
+      "name": "browser game, thesis",
+      "url": "https://www.tanvimishra.xyz/Work/tridal.html"
+    },
+    "description": "a multiplayer, cooperative game about land use. I have been meaning to host this FOREVER"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/lab rnd v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "LAB R&D site",
+      "url": "https://labatrockwell.github.io/rnd.website/"
+    },
+    "source code": "https://github.com/labatrockwell/rnd.website",
+    "year": "2025",
+    "for": "work",
+    "function": {
+      "name": "archive",
+      "url": null
+    },
+    "description": "a website for the LAB R&D explorations that I built and maintain"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/almanac v1.webp"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "CT Almanac",
+      "url": ""
+    },
+    "source code": null,
+    "year": "2024-2025",
+    "for": "work",
+    "function": {
+      "name": "archive",
+      "url": null
+    },
+    "description": "An attempt at a digital garden for the creative tech team that got a bit too complicated"
+  },
+  {
+    "v1": {
+      "url": "https://tanvimishra.github.io/LightMovements/",
+      "images": [
+        "./Assets/lightmovement v1.png"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Light Movement",
+      "url": "https://tanvimishra.github.io/LightMovements/"
     },
     "source code": "https://github.com/TanviMishra/LightMovements",
     "year": "2025",
     "for": "work",
     "function": {
-        "name": "Archive",
-        "url": null
+      "name": "projection mapping",
+      "url": null
     },
-    "description": "These were visuals made to be projection mapped. Showing light catch on natural forms - dappled light through trees and glittering light on water"
+    "description": "projection mapped visuals of dappled light through trees and glittering light on water"
   },
   {
     "v1": {
       "url": "",
-      "images": ["./Assets/websitesite v1.png"]
+      "images": [
+        "./Assets/forest clearing v1.jpg"
+      ]
     },
     "v2": null,
     "v3": null,
     "title": {
-        "name": "Tanvi websitesite",
-        "url": ""
+      "name": "A Forest Clearing",
+      "url": "https://studio-degen.github.io/deforestation/"
     },
-    "source code": "",
-    "year": "2026",
-    "for": "me",
+    "source code": "https://github.com/TanviMishra/deforestest",
+    "year": "2022",
+    "for": "school",
     "function": {
-        "name": "Archive",
-        "url": null
+      "name": "browser game",
+      "url": null
     },
-    "description": "All the websites I've built, past and present."
+    "description": "an apple orchard growing apples and maintaining the forest which will inevitably be felled"
   },
   {
     "v1": {
       "url": "",
-      "images": ["./Assets/rollingstones v1.png"]
+      "images": [
+        "./Assets/sheepish v1.jpg"
+      ]
     },
     "v2": null,
     "v3": null,
     "title": {
-        "name": "Rolling Stones",
-        "url": "https://tanvimishra.github.io/Core_Studio_Systems/Extra_Credit_Website/"
+      "name": "Sheepish",
+      "url": "https://tanvimishra.github.io/gameB/"
+    },
+    "source code": "https://github.com/TanviMishra/gameB?tab=readme-ov-file",
+    "year": "2022",
+    "for": "school",
+    "function": {
+      "name": "browser game",
+      "url": null
+    },
+    "description": "you are a border collie and you have only one job: herd all the sheep back into the pen!"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/silver lining v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Silver Lining",
+      "url": "https://tanvimishra.github.io/p5_party_classwork/silver_lining_code/"
+    },
+    "source code": "https://github.com/TanviMishra/p5_party_classwork/tree/main/silver_lining_code",
+    "year": "2022",
+    "for": "school",
+    "function": {
+      "name": "browser game",
+      "url": null
+    },
+    "description": "draw lines less than 80 px and don't intersect your opponent's line. It's more fun than it sounds."
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/degen v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Studio Degen",
+      "url": "https://studio-degen.github.io/studio-degen/main/index.html"
+    },
+    "source code": "https://github.com/studio-degen/studio-degen",
+    "year": "2022",
+    "for": "collective",
+    "function": {
+      "name": "archive",
+      "url": null
+    },
+    "description": "a collection of quantum-games. p.s. the frog will eat the fireflies if you lure them close"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/qsweeper v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Q-Sweeper",
+      "url": "https://studio-degen.github.io/q-sweeper/"
+    },
+    "source code": "https://github.com/studio-degen/studio-degen",
+    "year": "2022",
+    "for": "collective",
+    "function": {
+      "name": "quantum game",
+      "url": null
+    },
+    "description": "minesweeper with entangled mines and superposition tomatoes"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/qattleship v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Qattleship",
+      "url": "https://studio-degen.github.io/q-battleship/"
+    },
+    "source code": "https://github.com/studio-degen/studio-degen",
+    "year": "2022",
+    "for": "collective",
+    "function": {
+      "name": "quantum game",
+      "url": null
+    },
+    "description": "an over-engineered quantum battleship game where you are bugs"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/rollingstones v1.png"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Rolling Stones",
+      "url": "https://tanvimishra.github.io/Core_Studio_Systems/Extra_Credit_Website/"
     },
     "source code": "https://github.com/TanviMishra/Core_Studio_Systems?tab=readme-ov-file",
     "year": "2021",
     "for": "school",
     "function": {
-        "name": "Metaphor",
-        "url": null
+      "name": "metaphor",
+      "url": null
     },
-    "description": "A website of the proverb 'a rolling stone gathers no moss'."
+    "description": "a website for the proverb 'a rolling stone gathers no moss'."
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/landscapes v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Responsive Landscape",
+      "url": "https://tanvimishra.github.io/net-art-0101/projects/reponsiveSite/ex2.html"
+    },
+    "source code": "https://github.com/TanviMishra/net-art-0101/tree/main/projects/reponsiveSite",
+    "year": "2022",
+    "for": "school",
+    "function": {
+      "name": "responsiveness",
+      "url": null
+    },
+    "description": "site's responsiveness changes the generated scene. watch the clouds drift by as you resize the website."
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/text v1.jpg"
+      ]
+    },
+    "v2": null,
+    "v3": null,
+    "title": {
+      "name": "Text Adventure Map Finder",
+      "url": "https://tanvimishra.github.io/net-art-0101/projects/textAdventure/ex1"
+    },
+    "source code": "https://github.com/TanviMishra/net-art-0101/tree/main/projects/textAdventure",
+    "year": "2022",
+    "for": "school",
+    "function": {
+      "name": "map making",
+      "url": null
+    },
+    "description": "a text exploration website using only CSS and a hand painted map"
   },
   {
     "v1": {
       "url": "https://tanvimishra.github.io/neoTCH_1.3/",
-      "images": ["./Assets/neo v1.png"]
+      "images": [
+        "./Assets/neo v1.png"
+      ]
     },
     "v2": null,
     "v3": null,
@@ -101,217 +388,18 @@
     "year": "2022",
     "for": "school",
     "function": {
-        "name": "E-Textile Website",
-        "url": "https://www.tanvimishra.xyz/Work/neo-TCH%201.3.html"
+      "name": "e-textile website",
+      "url": "https://www.tanvimishra.xyz/Work/neo-TCH%201.3.html"
     },
-    "description": "Soft sensors, trash world"
+    "description": "soft sensors, trash world"
   },
   {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "CarbonCopy",
-      "url": "https://tanvimishra.github.io/Core_Studio_Systems/Interface/"
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/alexander v1.jpg"
+      ]
     },
-    "source code": "https://github.com/TanviMishra/Core_Studio_Systems",
-    "year": "2021",
-    "for": "school",
-    "function": {
-        "name": "Baby Tridal",
-        "url": ""
-    },
-    "description": "This is the baby prototype of my climate-research game. It was a website to present this hypothetical monetary-model and reperations-aware carbon counting system"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Tridal",
-      "url": ""
-    },
-    "source code": "https://github.com/TanviMishra/thesis-progress",
-    "year": "2023-2024",
-    "for": "me",
-    "function": {
-        "name": "Browser Game, Thesis",
-        "url": "https://www.tanvimishra.xyz/Work/tridal.html"
-    },
-    "description": "Tridal is a multiplayer, cooperative environment that advocates responsible land use. I have been meaning to host the game FOREVER"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Rolled Sleeves",
-      "url": "https://tanvimishra.github.io/rolledSleeves/"
-    },
-    "source code": "https://github.com/TanviMishra/rolledSleeves",
-    "year": "2022",
-    "for": "me",
-    "function": {
-        "name": "Strike",
-        "url": null
-    },
-    "description": "A website disemmintating information about the part time faculty strike happening at TNS in 2022"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Sheepish",
-      "url": "https://tanvimishra.github.io/gameB/"
-    },
-    "source code": "https://github.com/TanviMishra/gameB?tab=readme-ov-file",
-    "year": "2022",
-    "for": "school",
-    "function": {
-        "name": "Browser Game",
-        "url": null
-    },
-    "description": "You are a border collie (woof) and you have only one job: herd all the sheep back into the pen!"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "A Forest Clearing",
-      "url": "https://studio-degen.github.io/deforestation/"
-    },
-    "source code": "https://github.com/TanviMishra/deforestest",
-    "year": "2022",
-    "for": "school",
-    "function": {
-        "name": "Browser Game",
-        "url": null
-    },
-    "description": "A Forest Clearing is a collaborative multiplayer game where players grow and maintain their forest which will inevitably be felled"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Text Adventure Map Finder",
-      "url": "https://tanvimishra.github.io/net-art-0101/projects/textAdventure/ex1"
-    },
-    "source code": "https://github.com/TanviMishra/net-art-0101/tree/main/projects/textAdventure",
-    "year": "2022",
-    "for": "school",
-    "function": {
-        "name": "Map Making",
-        "url": null
-    },
-    "description": "A text exploration website using only CSS and a hand painted map"
-  },
-
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Responsive Landscape",
-      "url": "https://tanvimishra.github.io/net-art-0101/projects/reponsiveSite/ex2.html"
-    },
-    "source code": "https://github.com/TanviMishra/net-art-0101/tree/main/projects/reponsiveSite",
-    "year": "2022",
-    "for": "school",
-    "function": {
-        "name": "Responsiveness",
-        "url": null
-    },
-    "description": "Responsive Landscapes uses basic DOM elements. The site's responsiveness changes the generated scene. Watch the clouds drift by as you resize the website."
-  },{
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Beta Game",
-      "url": ""
-    },
-    "source code": "https://github.com/TanviMishra/betagame.github.io?tab=readme-ov-file",
-    "year": "2020",
-    "for": "me",
-    "function": {
-        "name": "Watercolor Platformer",
-        "url": null
-    },
-    "description": "Platformer game where beta collects strawberries to reveal a story"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Studio Degen",
-      "url": "https://studio-degen.github.io/studio-degen/main/index.html"
-    },
-    "source code": "https://github.com/studio-degen/studio-degen",
-    "year": "2022",
-    "for": "collective",
-    "function": {
-        "name": "Archive",
-        "url": null
-    },
-    "description": "Website containing collection of quantum-games. p.s. the frog will eat the fireflies if you lure them close"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Q-Sweeper",
-      "url": "https://studio-degen.github.io/q-sweeper/"
-    },
-    "source code": "https://github.com/studio-degen/studio-degen",
-    "year": "2022",
-    "for": "collective",
-    "function": {
-        "name": "Game",
-        "url": null
-    },
-    "description": "Minesweeper with entangled mines and superposition tomatoes"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "Qattleship",
-      "url": "https://studio-degen.github.io/q-battleship/"
-    },
-    "source code": "https://github.com/studio-degen/studio-degen",
-    "year": "2022",
-    "for": "collective",
-    "function": {
-        "name": "Game",
-        "url": null
-    },
-    "description": "An over-engineered quantum battleship game where you are bugs"
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "LAB R&D site",
-      "url": "https://github.com/labatrockwell/rnd.website"
-    },
-    "source code": "https://github.com/studio-degen/studio-degen",
-    "year": "2025",
-    "for": "work",
-    "function": {
-        "name": "Archive",
-        "url": null
-    },
-    "description": "A website for the LAB R&D explorations that I built and maintain"
-  },
-  {
-    "v1": null,
     "v2": null,
     "v3": null,
     "title": {
@@ -322,60 +410,80 @@
     "year": "2023",
     "for": "Alexander",
     "function": {
-        "name": "Platformer Letter",
-        "url": null
+      "name": "platformer letter",
+      "url": null
     },
-    "description": "Alexander picks up shit in prepration for his new baby. Our class made this before Alexander's paternity leave"
-  },{
-    "v1": null,
+    "description": "our class made this platformer justbefore Alexander's (our thesis advisor) paternity leave"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/carboncopy v1.jpg"
+      ]
+    },
     "v2": null,
     "v3": null,
     "title": {
-      "name": "Silver Lining",
-      "url": "https://tanvimishra.github.io/p5_party_classwork/silver_lining_code/"
+      "name": "CarbonCopy",
+      "url": "https://tanvimishra.github.io/Core_Studio_Systems/Interface/"
     },
-    "source code": "https://github.com/TanviMishra/p5_party_classwork/tree/main/silver_lining_code",
-    "year": "2022",
+    "source code": "https://github.com/TanviMishra/Core_Studio_Systems",
+    "year": "2021",
     "for": "school",
     "function": {
-        "name": "Game",
-        "url": null
-    },
-    "description": "Draw lines less than 80 px and don't intersect your opponent's line. It's more fun than it sounds."
-  },
-  {
-    "v1": null,
-    "v2": null,
-    "v3": null,
-    "title": {
-      "name": "CT Almanac",
+      "name": "baby tridal",
       "url": ""
     },
-    "source code": null,
-    "year": "2024-2025",
-    "for": "work",
-    "function": {
-        "name": "Archive",
-        "url": null
-    },
-    "description": "An attempt at a degital garden for the creative tech team that got a bit too complicated"
+    "description": "the earliest prototype of my climate-research game. It was a website to present this hypothetical monetary-model and reperations-aware carbon counting system"
   },
   {
-    "v1": null,
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/beta v1.gif"
+      ]
+    },
+    "v2": {
+      "url": "",
+      "images": [
+        "./Assets/beta v2.png"
+      ]
+    },
+    "v3": null,
+    "title": {
+      "name": "Beta Game",
+      "url": ""
+    },
+    "source code": "https://github.com/TanviMishra/betagame.github.io?tab=readme-ov-file",
+    "year": "2020",
+    "for": "me",
+    "function": {
+      "name": "watercolor game",
+      "url": null
+    },
+    "description": "a platformer game where beta collects strawberries to reveal a story"
+  },
+  {
+    "v1": {
+      "url": "",
+      "images": [
+        "./Assets/rolledsleeves v1.jpg"
+      ]
+    },
     "v2": null,
     "v3": null,
     "title": {
-      "name": "Silly Goose Cassettes",
-      "url": "https://sillygoose.bearblog.dev/"
+      "name": "Rolled Sleeves",
+      "url": "https://tanvimishra.github.io/rolledSleeves/"
     },
-    "source code": null,
-    "year": "2025",
+    "source code": "https://github.com/TanviMishra/rolledSleeves",
+    "year": "2022",
     "for": "me",
     "function": {
-        "name": "Archive, Writing",
-        "url": null
+      "name": "strike",
+      "url": null
     },
-    "description": "Blog so that I don't stop thinking and go into autopilot"
+    "description": "website disemmintating information about the part time faculty strike happening at TNS in 2022"
   }
 ]
-
