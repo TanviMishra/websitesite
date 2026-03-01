@@ -1,10 +1,12 @@
-# websitesite
+## websitesite
 
-This is an index of websites built by Tanvi. It is based on Jisu's at websitesite.xyz.
-More project work can be found here - tanvimishra.xyz
+An index of websites built by Tanvi, based on [Jisu's websitesite](https://websitesite.xyz).
 
-to do
-- make it responsive
-- add images
-- reorder projects
-- img fixing
+### Links
+
+- **Live site:** [tanvimishra.github.io/websitesite](https://tanvimishra.github.io/websitesite/)
+- **More work:** [tanvimishra.xyz](https://tanvimishra.xyz)
+
+### To do
+
+- Make it responsive
